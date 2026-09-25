@@ -49,10 +49,10 @@
     .\.venv\Scripts\Activate.ps1
   
   ### Instalar as dependências com:
-  pip install -r requirements.txt
+    pip install -r requirements.txt
   
   ### Rodar os testes:
-  pytest (por enquanto o resultado esperado é: 'no tests ran')
+    pytest (por enquanto o resultado esperado é: 'no tests ran')
 
   ## Aprendizados
 
