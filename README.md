@@ -45,6 +45,10 @@
   ### Ativar o ambiente virtual:
     Pelo Git Bash:
     source .venv/Scripts/activate
+
+    Pelo Linux:
+    source .venv/Scripts/activate
+    
     Pelo Windows:
     .\.venv\Scripts\Activate.ps1
   
