@@ -31,12 +31,29 @@
 
   ## Como rodar
 
-    Pré-requisitos: Python 3.14.4 e Git.
-    Clonar: https://github.com/iagosantanna/fornada.git
-    Criar o ambiente virtual: python -m venv .venv
-    Ativar o ambiente virtual: Pelo Git Bash - source .venv/Scripts/activate & Pelo Windows: .\.venv\Scripts\Activate.ps1
-    Instalar as dependências com: pip install -r requirements.txt
-    Rodar os testes: pytest (por enquanto o resultado esperado é: 'no tests ran')
+  ### Pré-requisitos
+      Python 3.14.4 e Git.
+    
+  ### 2. Clone o repositório
+      bash
+      git clone https://github.com/iagosantanna/fornada.git
+      cd fornada
+
+  ### Criar o ambiente virtual:
+    python -m venv .venv
+
+  ### Ativar o ambiente virtual:
+    Pelo Git Bash:
+    source .venv/Scripts/activate
+    Pelo Windows:
+    .\.venv\Scripts\Activate.ps1
+  
+  ### Instalar as dependências com:
+  pip install -r requirements.txt
+  
+  ### Rodar os testes:
+  pytest (por enquanto o resultado esperado é: 'no tests ran')
+  
   ## Aprendizados
 
     Atualizado a cada sprint review.
