@@ -1,5 +1,5 @@
 # Fornada
-
+  **Autor:** Iago Sant'anna
   Sistema de encomendas para confeitarias artesanais, feito com Python e Django.
 
   > Projeto de portfólio guiado por IA em formato de estágio simulado: a Fornada e a cliente
@@ -53,7 +53,7 @@
   
   ### Rodar os testes:
   pytest (por enquanto o resultado esperado é: 'no tests ran')
-  
+
   ## Aprendizados
 
     Atualizado a cada sprint review.
