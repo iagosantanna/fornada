@@ -34,7 +34,7 @@
   ### Pré-requisitos
       Python 3.14.4 e Git.
     
-  ### 2. Clone o repositório
+  ### Clone o repositório
       bash
       git clone https://github.com/iagosantanna/fornada.git
       cd fornada
