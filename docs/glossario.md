@@ -1,12 +1,5 @@
 # Glossário
 
-| Dor relatada pela Dona Célia | Impacto no negócio |
-| -------- | -------- |
-| Encomendas esquecidas ou anotadas com erro (sabor, data, texto do bolo): cerca de 1 em cada 20 | Retrabalho, bolo refeito de graça, cliente insatisfeito |
-| Cliente desiste depois do bolo pronto, sem ter pago sinal | Prejuízo com ingredientes e horas de trabalho |
-| A loja aceita mais encomendas do que a produção dá conta no dia | Atrasos, hora extra, queda de qualidade |
-| Ninguém sabe quanto faturou no mês nem quais produtos dão mais margem | Preço e cardápio decididos no escuro |
-
 A ponte entre como a Dona Célia fala e como o código fala.
 Se ela diz uma palavra e o código diz outra, este arquivo é onde a gente combina que é a mesma coisa, e exatamente qual coisa.
 
