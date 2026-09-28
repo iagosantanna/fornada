@@ -1,7 +1,7 @@
-# Glossário
+# Glossário — Padaria A Três Fornos
 
 A ponte entre como a Dona Célia fala e como o código fala.
-Se ela diz uma palavra e o código diz outra, este arquivo é onde a gente combina que é a mesma coisa, e exatamente qual coisa.
+Se ela diz uma palavra e o código diz outra, este arquivo é onde a gente combina que é a mesma coisa — e exatamente qual coisa.
 
 **Regra de entrada:** a palavra passa se responder "sim" para pelo menos duas destas:
 1. A Dona Célia usa no dia a dia da confeitaria?
@@ -16,16 +16,23 @@ Se ela diz uma palavra e o código diz outra, este arquivo é onde a gente combi
 
 | Termo do negócio | O que significa na Três Fornos | Nome no código |
 | --- | --- | --- |
-| Encomenda | Pedido com data e hora combinadas, não é venda de balcão | `Order` |
-| Item da encomenda | Cada produto dentro de uma encomenda | `OrderItem` |
+| Encomenda | Pedido feito com antecedência para retirar ou receber em data marcada | `Order` |
+| Item da encomenda | Cada produto dentro da encomenda, com quantidade e personalização | `OrderItem` |
 
 ## Valores e medidas (viram campos)
 
 | Termo do negócio | O que significa na Três Fornos | Nome no código |
 | --- | --- | --- |
-| Sinal | Valor pago adiantado para garantir a encomenda | `deposit_amount` |
-| Antecedência | Quanto tempo antes o cliente faz o pedido | `lead_time` |
-| Capacidade diária | Quanto a produção aguenta fazer em um dia | `daily_capacity` |
+| Sinal | Valor pago adiantado para confirmar a encomenda | `deposit` |
+| Antecedência | Tempo mínimo entre fazer a encomenda e a data de retirada | `lead_time` |
+| Capacidade diária | Quanto a confeitaria consegue produzir em um dia | `daily_capacity` |
+| Personalização | Pedido especial no produto: texto no bolo, tema, sabor fora do cardápio | `customization` |
+
+## Formas de entrega
+
+| Termo do negócio | O que significa na Três Fornos | Nome no código |
+| --- | --- | --- |
+| Retirada / entrega | O cliente busca na loja / a loja leva até o cliente | `pickup` / `delivery` |
 
 ## Estados (momentos do ciclo de vida)
 
@@ -50,6 +57,7 @@ _(em aberto — hipótese H2 do briefing: quem além da Dona Célia opera o sist
 - A desistência conta quando o sinal já foi pago? E quando o cliente só some sem avisar?
 - O aceite vem antes ou depois do sinal? Ou são a mesma coisa na cabeça da Dona Célia?
 - Existe um limite claro de "não dá mais" ou é sempre no feeling? (liga com a Capacidade diária)
+- Personalização é sempre cobrada à parte ou depende do caso?
 
 ## Como este arquivo conversa com os outros
 
