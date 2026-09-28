@@ -12,14 +12,14 @@
 
 ## 2. Processo atual: do pedido no WhatsApp até a retirada
 1. **Contato do cliente:** cliente manda mensagem no WhatsApp ou liga.
-2. **Anotação:** Dona Célia anota no caderno nome, sabor, recheio, tamanho, data, horário, texto do bolo, valor e se pagou sinal.
-3. **Confirmação:** ela responde ao cliente confirmando os detalhes; às vezes há troca de mensagens até fechar.
-4. **Decisão de aceite:** ela avalia de cabeça se a produção consegue entregar naquele dia/horário.
-5. **Sinal/pagamento:** combina valor adiantado e forma de pagamento (Pix, dinheiro, cartão). [a confirmar]
-6. **Repasse para produção:** informa quem vai fazer o bolo, geralmente de forma verbal ou mostrando o caderno.
-7. **Produção:** o bolo/encomenda é feito no dia combinado.
-8. **Retirada/entrega:** cliente busca na padaria ou recebe em casa. [a confirmar]
-9. **Fechamento:** pagamento final é recebido e, às vezes, anotado.
+2. **Anotação:** Anota no caderno nome, sabor, recheio, tamanho, data, horário, texto do bolo, valor e se pagou sinal.
+3. **Confirmação:** Responde ao cliente confirmando os detalhes; às vezes há troca de mensagens até fechar.
+4. **Decisão de aceite:** Avalia de cabeça se a produção consegue entregar naquele dia/horário.
+5. **Sinal/pagamento:** Combina valor adiantado e forma de pagamento (Pix, dinheiro, cartão). [a confirmar]
+6. **Repasse para produção:** Informa quem vai fazer o bolo, geralmente de forma verbal ou mostrando o caderno.
+7. **Produção:** O bolo/encomenda é feito no dia combinado.
+8. **Retirada/entrega:** Cliente busca na padaria ou recebe em casa. [a confirmar]
+9. **Fechamento:** Pagamento final é recebido e, às vezes, anotado.
 10. **Fim do dia/mês:** Dona Célia tenta somar valores e entender o que vendeu, mas sem um controle organizado.
 
 ## 3. Dores e impacto
@@ -52,17 +52,6 @@
 - **H9:** A padaria tem internet estável? Usa apenas celular? Há computador no balcão?
 - **H10:** O sistema vai se integrar ao WhatsApp ou o registro será manual?
 - **H11:** A produção precisa de detalhes de receita, insumos e custos, ou basta a lista de pedidos?
-
-## Problematização
-
-A Três Fornos, hoje, não tem um sistema para organizar os pedidos, anotando pedidos em um caderno através do contato com clientes via telefone ou whatsapp, perdendo dinheiro com encomendas esquecidas, clientes que furam em cima da hora, falta de controle de fluxo e de caixa. 
-
-| Dor relatada pela Dona Célia | Impacto no negócio |
-| --- | --- |
-| Encomendas esquecidas ou anotadas com erro (sabor, data, texto do bolo): cerca de 1 em cada 20 | Retrabalho, bolo refeito de graça, cliente insatisfeito |
-| Cliente desiste depois do bolo pronto, sem ter pago sinal | Prejuízo com ingredientes e horas de trabalho |
-| A loja aceita mais encomendas do que a produção dá conta no dia | Atrasos, hora extra, queda de qualidade |
-| Ninguém sabe quanto faturou no mês nem quais produtos dão mais margem | Preço e cardápio decididos no escuro |
 
 ## Entrevista - Dona Célia
 
