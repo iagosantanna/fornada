@@ -13,11 +13,30 @@ Sistema de encomendas para confeitarias artesanais, feito com Python e Django.
 
 ## Contexto
 
-_Em construção — preenchido na Tarefa 0.3._
+A **Confeitaria Três Fornos** é um negócio familiar comandado pela Dona Célia. A operação hoje é simples na essência, mas depende inteiramente de memória e de um caderno: os pedidos chegam por telefone e WhatsApp, são anotados à mão e repassados para a produção de forma verbal.
+
+Estrutura conhecida do negócio:
+
+- **~150 encomendas por mês**
+- **3 fornos** e **4 pessoas na produção**
+- **Picos de demanda** às sextas, sábados e datas comemorativas
+- Atendimento por **telefone e WhatsApp**, sem sistema de registro
+- Controle de caixa **informal**
+
+Dona Célia tem pouco contato com sistemas e vai ser a principal usuária da solução. O piloto foi desenhado para **3 meses**, com o objetivo de acompanhar cerca de **450 encomendas** e medir a redução de erros, esquecimentos e tempo gasto para registrar um pedido.
 
 ## O problema
 
-_Em construção — preenchido na Tarefa 0.3._
+Sem um sistema de registro, a Três Fornos perde dinheiro e qualidade em quatro frentes principais:
+
+- **Erros de anotação** — cerca de **1 em cada 20 pedidos** sai errado (sabor, data, texto do bolo), gerando bolo refeito, retrabalho e cliente insatisfeito.
+- **Desistência sem sinal** — clientes cancelam depois do bolo pronto, e a confeitaria arca com ingredientes, tempo e horas de trabalho perdidas.
+- **Sobrecarga da produção** — a loja aceita mais encomendas do que consegue entregar em um mesmo dia, causando atrasos, hora extra e queda na qualidade.
+- **Falta de controle financeiro** — ninguém sabe com clareza quanto faturou no mês nem quais produtos dão mais lucro. Preço e cardápio acabam decididos no escuro.
+
+Além disso, toda a informação depende do caderno e da memória da Dona Célia. Se ela não estiver presente, o pedido se perde. Não há histórico confiável para medir cancelamentos, perdas ou clientes que furam — o que impede qualquer decisão baseada em dados.
+
+O projeto nasce para tirar as encomendas do caderno, centralizar as informações e dar à Dona Célia visibilidade sobre o que entra, o que sai e o que dá lucro.
 
 ## Regras de negócio
 
